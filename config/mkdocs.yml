@@ -1,0 +1,23 @@
+site_name: Synergy University 
+site_dir: /tmp/university.eosc-synergy.eu
+docs_dir: ..
+repo_url: https://github.com/EOSC-synergy/university.eosc-synergy.eu
+edit_uri: "edit/master"
+theme: 
+    # name: 'readthedocs'
+    name: 'rtd-mklab'
+    # name: 'rtd-dropdown'
+    # name: mkdocs
+    hightlightjs: true
+markdown_extensions:
+    - smarty
+    - toc:
+        baselevel: 1
+        permalink: "#"
+    - admonition
+    - def_list
+nav:
+    - Home: README.md
+    - AUP: AUP.md
+    - ----------: /
+    - Imprint: http://www.kit.edu/impressum.php
