@@ -4,8 +4,8 @@ docs_dir: ..
 repo_url: https://github.com/EOSC-synergy/university.eosc-synergy.eu
 edit_uri: "edit/master"
 theme: 
-    # name: 'readthedocs'
-    name: 'rtd-mklab'
+    name: 'readthedocs'
+    #name: 'rtd-mklab'
     # name: 'rtd-dropdown'
     # name: mkdocs
     hightlightjs: true
