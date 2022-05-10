@@ -1,11 +1,15 @@
 # university.eosc-synergy.eu
 
-This is the homepage of the Synergy University VO, the Virtual Organisation for the
-MTEAM.
+This is the homepage of the Synergy University VO.
 
-<!--You can request membership here:-->
-<!--[https://aai.egi.eu/registry/co_petitions/start/coef:140](https://aai.egi.eu/registry/co_petitions/start/coef:140)-->
-<!---->
+Synergy University is a VO to support university classes in teaching and
+using the European Open Science Cloud.  Courses will last for multiple
+weeks, and include multiple examples of successful Services that are
+already running on the Federated Cloud.
+
+You can request membership here:
+[https://aai.egi.eu/registry/co_petitions/start/coef:374](https://aai.egi.eu/registry/co_petitions/start/coef:374)
+
 <!--## Services that support the VO-->
 <!---->
 <!--- [https://http://perfmon.test.fedcloud.eu](https://http://perfmon.test.fedcloud.eu)-->
